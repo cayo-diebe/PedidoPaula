@@ -1,0 +1,51 @@
+html,
+body {
+	background-color: #800000;
+	color: #fff;
+	height: 100% !important;
+	width: 100%;
+	}
+
+.rejjectd {
+		background-color: black;
+		color: #fff;
+		height: 100% !important;
+		width: 100%;
+		}
+a{
+	color: white
+}
+p {
+	/*font-size: 16px;*/
+}
+
+.btn-pink {
+	background-color: #ff0066 !important;
+	border: #ff0066 !important;
+	/**font-size: 16px !important;**/
+}
+
+.girassol {
+	width: 70px;
+	height: 70px;
+}
+
+footer {
+	color: #fff !important;
+}
+
+footer p {
+/*	font-size: 16px !important;*/
+}
+
+footer i {
+	color: #f00;
+}
+
+.pedido {
+	padding-bottom: 30%;
+}
+
+.slide-img {
+	filter: brightness(50%);
+}
